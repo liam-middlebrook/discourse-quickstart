@@ -135,7 +135,7 @@ GIT
   remote: https://github.com/laserlemon/vestal_versions
   revision: beccc5744ec030664f003d61ffb617edefd7885b
   specs:
-    vestal_versions (1.2.2)
+    vestal_versions (2.0.0)
       activerecord (>= 3.0.0)
       activesupport (>= 3.0.0)
 
