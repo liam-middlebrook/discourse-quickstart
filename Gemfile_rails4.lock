@@ -132,7 +132,7 @@ GIT
     email_reply_parser (0.6)
 
 GIT
-  remote: https://github.com/zhangyuan/vestal_versions
+  remote: https://github.com/laserlemon/vestal_versions
   revision: 0ea75ec4e269b5a9e609639919ade0f36381a446
   specs:
     vestal_versions (1.2.2)
